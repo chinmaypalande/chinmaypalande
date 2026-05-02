@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @chinmaypalande
 - 🌱 I’m MS AI Engineer, CA & CFA.
-- 👀 I’m interested in ML/DL in Quant/Finance
+- 👀 I’m interested in AI/ML research in Financial Risk & Quant.
+- Research papers: Prediciting 2y US T-bond yields using Temporal Fusion Transformers and PPG-Based Hypertension Detection: A Multi-modal Deep Learning Approach with Attention-Based Fusion
 - 💞️ I’m looking to collaborate on AI in Finance and AI in Education 
 - ⚡ Fun fact: Dota 2 & COD
 - 📫 How to reach me ...
